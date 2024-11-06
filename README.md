@@ -15,4 +15,12 @@ This repository contains leet code problem solutions on easy , medium and hard l
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
