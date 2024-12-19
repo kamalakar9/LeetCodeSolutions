@@ -7,6 +7,7 @@ This repository contains leet code problem solutions on easy , medium and hard l
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -25,6 +26,7 @@ This repository contains leet code problem solutions on easy , medium and hard l
 | [0035-search-insert-position](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -42,6 +44,7 @@ This repository contains leet code problem solutions on easy , medium and hard l
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
