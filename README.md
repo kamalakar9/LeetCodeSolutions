@@ -19,6 +19,7 @@ This repository contains leet code problem solutions on easy , medium and hard l
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Array
 |  |
 | ------- |
@@ -50,4 +51,8 @@ This repository contains leet code problem solutions on easy , medium and hard l
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
