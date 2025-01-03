@@ -30,6 +30,7 @@ This repository contains leet code problem solutions on easy , medium and hard l
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [2358-number-of-ways-to-split-array](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
 |  |
@@ -57,5 +58,6 @@ This repository contains leet code problem solutions on easy , medium and hard l
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
