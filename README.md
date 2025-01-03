@@ -24,6 +24,7 @@ This repository contains leet code problem solutions on easy , medium and hard l
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0066-plus-one) |
@@ -35,6 +36,7 @@ This repository contains leet code problem solutions on easy , medium and hard l
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kamalakar9/LeetCodeSolutions/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
